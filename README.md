@@ -14,4 +14,6 @@ My group consists of Jonathan Low, Neo Yu Hui, and Jerick Ho. Our SC1015 data sc
 
 We aimed to create a model that could be used to predict the likelihood of success of an attack from data points that could be collected before an attack. Subsequently, we would use these data points to predict the number of fatalities if the attack were to be carried out. To do this, we had to narrow down the >100 data points to find out which was more important in determining the success of an attack. To do this we used gradient boosting to rank the importance of variables in respect to the success of an attack. We would also use our own discretion to determine if this data could be collected before an attack (eg, you would only know the number killed after an attack was successful, while it is of high importance we cannot use it for our model). Using our chosen variables we performed trained 3 models, logistic regression, Gradient Boosting, and Multi-Layer Perceptron (MLP), and compared their prediction accuracy. Using our results from these models, we proceeded to predict nkill (number killed) using the predicted success. To do this we used 4 models, random forest regressor, Gradient Boosting, MLP, and logistic regression.  
 
+## Analysis outcomes
+
 ## Conclusion
