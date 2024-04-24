@@ -7,7 +7,7 @@ My group consists of Jonathan Low, Neo Yu Hui, and Jerick Ho. Our SC1015 data sc
 ## Problem Statement
 What makes terrorist attacks successful?​
 
-###Goal
+### Goal
 To use machine learning and past data to train models to determine the level of resources needed to recover from terrorist attacks.
 
 ## Data set
