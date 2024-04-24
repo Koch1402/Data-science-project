@@ -12,7 +12,7 @@ To use machine learning and past data to train models to determine the level of 
 
 ## Data set
 
-Our data set is from Kaggle [https://www.kaggle.com/datasets/START-UMD/gtd/code]. It is an open-source database of terrorist attacks that have happened from 1970 to 2017. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland. It contains more than 180,000 terrorist attacks, both successful and failed attacks. Each attack records more than 100 variables or both categorical and numerical data, from these attacks, such as location, perpetrator, casualties, etc.
+Our data set is from Kaggle [https://www.kaggle.com/datasets/START-UMD/gtd/data]. It is an open-source database of terrorist attacks that have happened from 1970 to 2017. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland. It contains more than 180,000 terrorist attacks, both successful and failed attacks. Each attack records more than 100 variables or both categorical and numerical data, from these attacks, such as location, perpetrator, casualties, etc.
 
 ## EDA
 Our EDA focuses on identifying trends in the data. We focused on the data points that would be relevant to our problem statement, such as attack type, success distribution, and more.
